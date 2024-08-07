@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "serve": "serve preview/"
+  },
+  "devDependencies": {
+    "serve": "^14.2.3"
+  }
+}
